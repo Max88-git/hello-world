@@ -8,7 +8,7 @@ In my spare time, I love mountain biking and being in nature.
 
 I am now pursuing a career in web development.
 
-# What I Learned
+# What I Learnt
 
 * Create and use a repository
 * Start and manage a new branch
